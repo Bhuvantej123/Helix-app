@@ -1,0 +1,5 @@
+{
+  "name": "Helix AI Tutor",
+  "description": "An interactive AI tutor that breaks down complex topics into simple, understandable steps using analogies and verifies your understanding along the way.",
+  "requestFramePermissions": []
+}
